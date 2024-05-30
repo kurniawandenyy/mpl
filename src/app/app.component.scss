@@ -1,0 +1,14 @@
+@import 'styles/themes.scss';
+
+.container {
+    height: 100vh;
+    width: 100vw;
+}
+
+.header {
+    background-color: $header-background-color;
+}
+
+.footer {
+    background-color: $footer-background-color;
+}
